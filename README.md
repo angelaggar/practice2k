@@ -11,6 +11,10 @@ Ya se me fundio el cerebro.
 <<<<<<< HEAD
 Hasta aqui mi reporte jefecito
 
+Fingiendo otra vez que si le se.
+
+supongamos que si le se bien
+
 Yo inicie aquí, para escribir cosas con seriedad
 =======
 Hasta aqui mi reporte jefecito.
