@@ -8,4 +8,6 @@ Se me esta acabando la creatividad a esta hora.
 
 Ya se me fundio el cerebro.
 
-Hasta aqui mi reporte jefecito.
+Hasta aqui mi reporte jefecito
+
+Yo inicie aquí, para escribir cosas con seriedad
