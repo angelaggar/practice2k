@@ -18,4 +18,7 @@ Hasta aqui mi reporte jefecito.
 Fingiendo otra vez que si le se.
 
 supongamos que si le se bien
+<<<<<<< HEAD
 >>>>>>> angie
+=======
+>>>>>>> 960fd04 ("new changes")
